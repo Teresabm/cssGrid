@@ -8,6 +8,6 @@ El maquetado es completamente responsive, los elementos graficos se obtuvieron d
 **Visualización en tamaño Desktop:**
 ![Imagen-responsive-desktop](/img-desktop.jpg "Imagen-responsive-desktop")
 
-**Visualización en tamaño Movil:**
-[========]
+**Visualización en tamaño Movil:** <br>
+
 ![Imagen-responsive-movil](/img-movil.jpg "Imagen-responsive-movil")
